@@ -3,7 +3,7 @@ title: "Github.devでも日本語等幅フォントを使いたい人に" # 記�
 emoji: "🖊️" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
 topics: ["github", "vscode", "font", "chrome", "stylus"] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+published: true # 公開設定（falseにすると下書き）
 ---
 githubのリポジトリ上で「 `.` 」を押すと（あるいはURLの _.com_ を _.dev_ に書き換えると）、 _github.dev_ が立ち上がります。
 
