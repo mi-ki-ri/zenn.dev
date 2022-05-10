@@ -25,11 +25,11 @@ _Settings Sync_ も対応しているので、ローカルとほぼ同じ環境�
 
 予めGoogle Fontsでmonospace系のフォントを選択しておきます。
 
-![スクショ1](images/custom-font-on-github-dev/screen_01.png)
+![スクショ1](/images/custom-font-on-github-dev/screen_01.png)
 
-![スクショ2](images/custom-font-on-github-dev/screen_02.png)
+![スクショ2](/images/custom-font-on-github-dev/screen_02.png)
 
-![スクショ3](images/custom-font-on-github-dev/screen_03.png)
+![スクショ3](/images/custom-font-on-github-dev/screen_03.png)
 
 必要なのは `@import url` から始まるURL文字列と、`font-family` に指定するためのフォントの名前です。
 
@@ -41,13 +41,13 @@ _Stylus_ の管理画面でGithub.devに対するスタイルを記述します�
 
 スタイルというか、フォントのインポートです。
 
-![スクショ4](images/custom-font-on-github-dev/screen_04.png)
+![スクショ4](/images/custom-font-on-github-dev/screen_04.png)
 
 これでGithub.devを訪れた際、M Plus Codeフォントが追加で読み込まれるはずです。
 
 次にgithub.devの設定画面を開き、Font familyを指定します。
 
-![スクショ5](images/custom-font-on-github-dev/screen_05.png)
+![スクショ5](/images/custom-font-on-github-dev/screen_05.png)
 
 指定内容は先程コピペしたフォント名です。
 
