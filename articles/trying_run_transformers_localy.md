@@ -2,8 +2,8 @@
 title: "transformers.jsを使ってローカルでLLMを動かすという野望" # 記事のタイトル
 emoji: "🤖" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア記事
-topics: ["transformers", "生成AI", "transformers.js"] # タグ。["markdown", "rust", "aws"]のように指定する
-published: false # 公開設定（falseにすると下書き）
+topics: ["transformers", "AI", "transformersjs", "nodejs"] # タグ。["markdown", "rust", "aws"]のように指定する
+published: true # 公開設定（falseにすると下書き）
 ---
 
 ## あらまし
@@ -21,6 +21,8 @@ published: false # 公開設定（falseにすると下書き）
 いい事ずくめなので試してみました。
 
 目標はテキストからハッシュタグを生成することです。
+
+あと今回はまだブラウザではなくローカルの nodejs 環境です。
 
 ```txt
 今日は大きい犬を見ました。
