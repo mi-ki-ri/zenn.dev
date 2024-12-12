@@ -2,8 +2,8 @@
 title: "gemini-2.0-flash-exp に自作ボカロ曲を聞いてもらった"
 emoji: "🎼"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["gemini", "llm", "audio", "music"]
-published: false
+topics: ["gemini", "llm", "audio", "music", "contest2024"]
+published: true
 ---
 
 ## 概要
